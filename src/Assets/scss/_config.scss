@@ -1,0 +1,16 @@
+//variables
+$black: #333333; 
+$white: #ffffff;
+$primary: #333;
+$red: #ff1755;
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #f0f2f5;
+}
+body, html, ul, ul li, .container-fluid {
+    margin: 0;
+    padding: 0;
+}
